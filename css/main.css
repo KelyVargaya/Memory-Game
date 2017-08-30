@@ -1,0 +1,59 @@
+body {
+  padding-left: 10%;
+  padding-right: 10%;
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: transparent;
+  height: 100px;
+  margin-left: 190px;
+  top: 270px;
+  background-image: url(../img/titulo.gif);
+  background-repeat: no-repeat;
+}
+#titulo{
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+p {
+  margin-bottom: 1rem
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 5%;
+ 
+}
+
+.fondo{
+  background: yellow;
+}
+#gameTable{
+  width: 500px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.show {
+  visibility: visible;
+}
+
+table, td {
+  border: 5px solid #595858;
+  border-collapse: collapse;
+}
+td {
+  padding: 2px;
+  background-color: white;
+}
+
+td:hover {
+ background-color: #e0e0e0
+}
